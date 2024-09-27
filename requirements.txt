@@ -1,0 +1,15 @@
+flask==3.0.3
+# pywin32 
+# pdfplumber 
+# python-docx
+comtypes
+# docx
+apscheduler
+pyinstaller
+websockets
+PyPDF2
+pypdf==4.2.0
+pymupdf
+waitress
+asn1crypto
+python-dateutil==2.9.0.post0
